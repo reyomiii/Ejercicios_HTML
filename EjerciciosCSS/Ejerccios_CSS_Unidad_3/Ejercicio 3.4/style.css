@@ -1,0 +1,26 @@
+.menu {
+    margin: -1%;
+    background-color: green;
+    width: 15%;
+    border-color: green;
+    border-style: dashed;
+    padding-right: 20%;
+    padding-bottom: 100%;
+    padding-left: 4%;
+    padding-top: 3%;
+    line-height: 1.5;
+    text-align: left;
+
+}
+
+ a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    }
+.menu p :hover {
+       background-color: darkgreen;
+
+}
